@@ -1,5 +1,5 @@
 
-![Build an expense tracker app in Django](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/2f/48e7a6f04741189a5cd53a3ed20060/Download-Our-Free-Expense-Tracker-.jpeg?auto=format%2Ccompress&dpr=1)
+![Build an expense tracker app in Django](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/ee/30e84af52548c9ad6ae3afedead1bd/Screen-Shot-2023-02-17-at-10.40.13-AM.png?auto=format%2Ccompress&dpr=1)
 # expense-tracking-app-django
 Build an expense tracker app in Django
 
